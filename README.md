@@ -11,6 +11,7 @@ It should be like that :
 
 ```$spinner->transform('I will eat food when possible');```
 
+
 ## Example
 When we put that sentence into transformer, it returns as possible alternatives of words with score information.
 
